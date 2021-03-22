@@ -1,0 +1,10 @@
+What year did Albert Einstein die?,1954,1949,1960,1955,4
+Which is the largest planet in the solar system?,Jupiter,Neptune,Earth,Mars,1
+What are a group of Dolphin called?,School,Herd,Pod,Pool,3
+Who invented Penicillin?,Alexander Fleming,Thomas Edison,Marie Curie,George Orwell,1
+How many people have walked on the moon?,10,5,12,9,3
+What is the currency of Brazil?,Dollar,Bhat,Real,Krona,3
+Bronze is an alloy consisting of two or more metals. What are they?,Copper and zinc,Copper and tin,Copper and gold,Copper and lead,2
+Mycology is the study of what?,Insects,Water bodies,Fungi,Volcanos,3
+What type of electrical charge does a neutron have?,Negative,Positive,No charge,Double negative,3
+Air is mostly made up of what?,Oxygen,Carbon dioxide,Argon,Nitrogen,4

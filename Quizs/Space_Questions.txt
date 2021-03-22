@@ -1,0 +1,10 @@
+What year was the Moon born?,4.5 Billion Years Ago,3.5 Million Years Ago,6 Billion Years Ago,2 Million Years Ago,1
+Which is the hottest planet in the solar system?,Jupiter,Neptune,Venus,Mars,3
+How hot is the surface of Venus?,750'C,1000'C,200'C,450'C,4
+Olympus Mons is a Volcano on Mars that is three times the size of which mountain?,Kilimanjaro,Everast,Ben Nevis,Snowden,2
+How much does a NASA spacesuit cost?,$12m,$1b,$5m,$89m,1
+How long are days on Venus (in Earth days)?,5,24,243,2432,3
+Which planet in our solar system is the densest?,Earth,Mars,Pluto,Mercury,1
+From what element is Saturn mostly made?,Carbon,Nitrogen,Boron,Hydrogen,4
+Which of these planets is NOT named after a God?,Neptune,Earth,Mars,Uranus,2
+How many Spacecraft have successfully visited Saturn?,None,1,2,4,4

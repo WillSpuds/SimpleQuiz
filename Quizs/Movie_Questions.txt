@@ -1,0 +1,8 @@
+What year did Avengers come out?,2010,2011,2012,2013,3
+What colour is Obi Wans lightsaber in the Starwars films?,Blue,Green,Purple,Red,1
+How many Shrek movies have been made?,2,3,4,5,4
+What is the name of Mickey Mouses dog?,Goofy,Pluto,Donald,George Orwell,2
+What does Woody claim to have in his boot?,A Rock,Another Boot,His Foot,A Snake,4
+What kind of animal is Stuart Little?,Mouse,Rat,Rabbit,Hamster,1
+Who did Wall-E become friends with in his Movie?,EVE,KAREN,MINNIE,AVA,1
+How many stones fit into the Infinity Gauntlet?,4,5,6,7,3
